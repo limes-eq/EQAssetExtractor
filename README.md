@@ -51,6 +51,4 @@ archive_file	      asset_name	                    compressed_size   	expanded_si
 10annvshield.eqg	  it14000.mod	                     7373	              14630
 10annvshield.eqg	  eq_anniversary_sheild01_n.dds	  24823	              32896
 25thanny.eqg	      it102934.mod	                   2590	               7550
-25thanny.eqg	      crescent_ov04.dds	              22340	              65664
-25thanny.eqg	      it102935.mod	                   4727	              11568
 ```
