@@ -49,6 +49,6 @@ Exit codes:
 archive_file	      asset_name	                    compressed_size   	expanded_size
 10annvshield.eqg	  eq_anniversary_sheild01.dds	    19752	              32896
 10annvshield.eqg	  it14000.mod	                     7373	              14630
-10annvshield.eqg	  eq_anniversary_sheild01_n.dds	  24823	              32896
-25thanny.eqg	      it102934.mod	                   2590	               7550
+10annvshield.eqg	  eq_anniversary_sheild01_n.dds	    24823	              32896
+25thanny.eqg	      it102934.mod	                     2590	               7550
 ```
