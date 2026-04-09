@@ -39,5 +39,5 @@ python eq_asset_extractor.py /path/to/eq/ --list-only --csv assets.csv
 ### Only process .s3d files, verbose output
 python eq_asset_extractor.py /path/to/eq/ /path/to/output/ --extensions s3d --verbose
 
-## Process top-level directory only, overwrite existing files
+### Process top-level directory only, overwrite existing files
 python eq_asset_extractor.py /path/to/eq/ /path/to/output/ --no-recurse --overwrite
