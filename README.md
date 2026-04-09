@@ -21,22 +21,22 @@ Options:
     --no-recurse        Do not search sub-directories of input_dir.
     --verbose           Print every asset entry as it is processed.
     --overwrite         Overwrite existing extracted files (default: skip).
-```
 
 Exit codes:
     0  Success
     1  Bad arguments / input directory not found
     2  One or more archives failed to parse (others still processed)
+```
 
-# Args:
+## Example args:
 
-## Extract everything
+### Extract everything
 python eq_asset_extractor.py /path/to/eq/ /path/to/output/
 
-## Just build the manifest CSV, no extraction
+### Just build the manifest CSV, no extraction
 python eq_asset_extractor.py /path/to/eq/ --list-only --csv assets.csv
 
-## Only process .s3d files, verbose output
+### Only process .s3d files, verbose output
 python eq_asset_extractor.py /path/to/eq/ /path/to/output/ --extensions s3d --verbose
 
 ## Process top-level directory only, overwrite existing files
